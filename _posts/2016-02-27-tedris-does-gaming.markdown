@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tedris does gaming"
-date:   2016-02-27 17:14
+date:   2016-02-27 17:14 -0500
 categories: jekyll update
 ---
 So I'm going to try a gaming post here.  Maybe talk about some stuff I've been playing lately, see if I can embed some stuff, figure out markdown, etc.

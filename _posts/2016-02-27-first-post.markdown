@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first post!"
-date:   2016-02-27 16:37
+date:   2016-02-27 16:37 -0500
 categories: jekyll update
 ---
 So I've been playing around with this site, it's pretty cool so far.
