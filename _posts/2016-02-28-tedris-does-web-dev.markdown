@@ -38,4 +38,4 @@ Lots of plugins, but slower than Sublime Text.  Still needs time to mature.
 
 Appears to be faster than Atom, comes with Intellisense, still slower than Sublime Text.  Maybe it's the fact that it's using electron instead of C, I don't know what's going on beneath the hood with these javascript based programs but it still appears to be slower than something developed natively.  Maybe it's just that Sublime is coded better.
 
-I'll see if I can write more about languages later today, going to be pretty busy.  Yep, busy busy stuff going on.
+I'll see if I can write more about languages later today, like Java, Javascipt frameworks, and other things I'm interested with that I don't get to at work.
