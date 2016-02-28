@@ -8,13 +8,14 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+      {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
+      {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
+
+      {% if day != nday %}
+          <h5 class="date">{{ post.date | date: "%A, %B %e, %Y" }}</h5>
+      {% endif %}
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     {% endfor %}
   </ul>
 
