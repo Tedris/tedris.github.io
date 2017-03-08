@@ -1,8 +1,9 @@
 ---
+title: Blogging again
 layout: post
-title:  "Blogging again"
-date:   2017-03-06 22:37:00 -0500
+date: '2017-03-06 10:00:00'
 ---
+
 I almost forgot about this thing.  I've been messing with Electron lately so I think I'll keep updating my progress on this site if anything looks good.  At the very least I'll keep writing.
 
 Boy, a year's passed by.  Life's been busy, I learned a lot about Angular.  I don't think I'll use it on this site since I want to keep it as fast as possible.  Maybe I'll change the layout.
